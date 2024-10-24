@@ -7,7 +7,7 @@ Este projeto oferece exemplos de cálculo de DV e métodos de validação de CNP
 ## Cálculo dos dígitos verificadores de CNPJ alfanumérico
 
 - [Python](src/python/README.md)
-- [Javascript](src/javascript/)
+- [Javascript](src/javascript/README.md)
 - [Typescript](src/typescript/README.md)
 - [Java](src/java/README.md)
 
